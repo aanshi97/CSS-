@@ -1,0 +1,21 @@
+body{background-color:pink;
+             background-image:url("1.gif");
+             background-repeat:no-repeat;
+             background-position:left center ;
+              background-size:500px;}
+
+h1{color:blue;
+        font-size:100px;
+        text-align:right;
+         
+          }
+
+ h2{color:blue;
+        font-size:80px;
+       text-align:right;
+          }
+
+h3{color:blue;
+        font-size:60px;
+          text-align:right;
+      }
